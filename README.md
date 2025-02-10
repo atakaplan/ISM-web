@@ -49,3 +49,6 @@ Katkılar memnuniyetle karşılanır! Lütfen depoyu fork edin ve değişiklikle
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
+
+## Site Görünüş
+![image](https://github.com/user-attachments/assets/250e5915-9cac-4e47-b016-a222ec537d24)
